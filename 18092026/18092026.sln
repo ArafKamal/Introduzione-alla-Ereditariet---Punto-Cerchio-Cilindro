@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18092026", "18092026.csproj", "{2DB546A8-1EA4-4219-890D-DB3BADC259F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo2", "..\metodo2\metodo2.csproj", "{B6C923DA-2B61-490B-9C48-46AB6F6419C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB546A8-1EA4-4219-890D-DB3BADC259F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB546A8-1EA4-4219-890D-DB3BADC259F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB546A8-1EA4-4219-890D-DB3BADC259F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB546A8-1EA4-4219-890D-DB3BADC259F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C923DA-2B61-490B-9C48-46AB6F6419C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C923DA-2B61-490B-9C48-46AB6F6419C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C923DA-2B61-490B-9C48-46AB6F6419C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C923DA-2B61-490B-9C48-46AB6F6419C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BB97DA-99BA-4140-AEAB-B9DAD8F5911B}
+	EndGlobalSection
+EndGlobal

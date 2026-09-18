@@ -1,0 +1,14 @@
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\bin\Debug\net8.0\metodo2.exe
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\bin\Debug\net8.0\metodo2.deps.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\bin\Debug\net8.0\metodo2.runtimeconfig.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\bin\Debug\net8.0\metodo2.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\bin\Debug\net8.0\metodo2.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.AssemblyInfo.cs
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\refint\metodo2.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\metodo2.genruntimeconfig.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\metodo2\obj\Debug\net8.0\ref\metodo2.dll

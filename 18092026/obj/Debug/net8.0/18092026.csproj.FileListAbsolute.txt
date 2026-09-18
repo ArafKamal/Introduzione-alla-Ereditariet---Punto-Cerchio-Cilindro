@@ -1,0 +1,14 @@
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\bin\Debug\net8.0\18092026.exe
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\bin\Debug\net8.0\18092026.deps.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\bin\Debug\net8.0\18092026.runtimeconfig.json
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\bin\Debug\net8.0\18092026.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\bin\Debug\net8.0\18092026.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.AssemblyInfo.cs
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\refint\18092026.dll
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.pdb
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\18092026.genruntimeconfig.cache
+C:\Users\kamal\source\repos\catalogoesercizi-ArafKamal\18092026\obj\Debug\net8.0\ref\18092026.dll
