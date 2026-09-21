@@ -36,7 +36,14 @@ namespace _18092026
         {
             _centro.x = posx;
             _centro.y = posy;
-            _raggio = r;
+            
+            if (r < 0)
+            {
+                throw new ArgumentException("Errore");
+            } else
+            {
+                _raggio = r;
+            }
         }
 
         public override string ToString()
