@@ -37,7 +37,13 @@ namespace _18092026
         {
             _cerchio.centro.x = posx;
             _cerchio.centro.y = posy;
-            _cerchio.raggio = r;
+            if (r < 0)
+            {
+                throw new ArgumentException("Errore");
+            } else
+            {
+                _raggio = r;
+            }
             if (h < 0)
             {
                 throw new ArgumentException("Errore");
