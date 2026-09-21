@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +15,14 @@ namespace metodo2
         }
         public CCerchio(decimal x, decimal y, int raggio) : base(x,y)
         {
-            _raggio = raggio;
+            if (raggio < 0)
+            {
+                throw new ArgumentException("Errore");
+            }
+            else
+            {
+                _raggio = raggio;
+            }
         }
 
         public override string ToString()
