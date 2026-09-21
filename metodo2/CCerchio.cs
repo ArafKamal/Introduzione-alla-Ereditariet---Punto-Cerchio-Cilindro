@@ -10,7 +10,7 @@ namespace metodo2
     {
         private int _raggio;
         // public int raggio { get; set; }
-        public CCerchio() : base() {
+        public CCerchio() {
             _raggio = 0;
         }
         public CCerchio(decimal x, decimal y, int raggio) : base(x,y)
