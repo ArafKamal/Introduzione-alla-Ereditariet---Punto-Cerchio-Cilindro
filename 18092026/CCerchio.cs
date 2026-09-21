@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +23,13 @@ namespace _18092026
         public CCerchio(CPunto p, decimal r)
         {
             _centro = p;
-            _raggio = r;
+            if (r < 0)
+            {
+                throw new ArgumentException("Errore");
+            } else
+            {
+                _raggio = r;
+            }
         }
 
         public CCerchio(decimal posx, decimal posy, decimal r)
