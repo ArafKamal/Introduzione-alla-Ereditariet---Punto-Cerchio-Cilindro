@@ -20,7 +20,7 @@ namespace metodo2
         }
         public override string ToString()
         {
-            return base.ToString() + "; raggio: " + _altezza;
+            return base.ToString() + "; altezza: " + _altezza;
         }
     }
 }
