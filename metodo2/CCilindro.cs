@@ -16,7 +16,13 @@ namespace metodo2
         }
         public CCilindro(int posx, int posy, int r, int altezza) : base(posx, posy, r) 
         {
-            altezza = _altezza;
+            if (altezza < 0)
+            {
+                throw new ArgumentException("Errore");
+            } else
+            {
+                altezza = _altezza;
+            }
         }
         public override string ToString()
         {
