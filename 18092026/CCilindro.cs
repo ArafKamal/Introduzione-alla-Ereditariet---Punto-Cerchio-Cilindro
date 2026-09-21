@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +23,14 @@ namespace _18092026
         public CCilindro(decimal h, CCerchio b)
         {
             _cerchio = b;
-            _altezza = h;
+            if (h < 0)
+            {
+                throw new ArgumentException("Errore");
+            }
+            else
+            {
+                _altezza = h;
+            }
         }
 
         public CCilindro(decimal posx, decimal posy, decimal r, decimal h)
@@ -31,7 +38,14 @@ namespace _18092026
             _cerchio.centro.x = posx;
             _cerchio.centro.y = posy;
             _cerchio.raggio = r;
-            _altezza = h;
+            if (h < 0)
+            {
+                throw new ArgumentException("Errore");
+            }
+            else
+            {
+                _altezza = h;
+            }
         }
 
         public override string ToString()
