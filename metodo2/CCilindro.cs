@@ -10,7 +10,7 @@ namespace metodo2
     {
         private int _altezza;
         // public int altezza { get; set; }
-        public CCilindro() : base()
+        public CCilindro()
         {
             _altezza = 0;
         }
